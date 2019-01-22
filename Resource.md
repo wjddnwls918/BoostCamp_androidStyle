@@ -4,21 +4,21 @@
 - `<WHAT>_<WHERE>`
 
 ### WHAT
-| Prefix | 설명 |
+| 설명 | postfix |
 | ------------- | ------------- |
-| `activity_` | Activity에서 쓰이는 layout |
-| `fragment_` | Fragment에서 쓰이는 layout |
-| `dialog_` | Dialog에서 쓰이는 layout |
-| `view_` | CustomView에서 쓰이는 layout |
-| `item_` | RecyclerView, GridView, ListView등에서 ViewHolder에 쓰이는 layout |
-| `layout_` | `<include/>`로 재사용되는 공통의 layout |
+| `_activity` | Activity에서 쓰이는 layout |
+| `_fragment` | Fragment에서 쓰이는 layout |
+| `_dialog` | Dialog에서 쓰이는 layout |
+| `_view` | CustomView에서 쓰이는 layout |
+| `_item` | RecyclerView, GridView, ListView등에서 ViewHolder에 쓰이는 layout |
+| `_layout` | `<include/>`로 재사용되는 공통의 layout |
 ### 예시
-- `activity_main`: MainActivity의 layout
-- `fragment_request`: RequestFragment의 layout
-- `dialog_contact`: 문의안내 Dialog의 layout
-- `view_rating`: 커스텀으로 만든 RatingView의 layout
-- `item_my_car`: 내차량 목록에서 사용되는 각각의 item의 layout
-- `layout_dealer_review`: 재사용되는 딜러리뷰 layout
+- `main_activity`: MainActivity의 layout
+- `request_fragment`: RequestFragment의 layout
+- `contact_dialog`: 문의안내 Dialog의 layout
+- `rating_view`: 커스텀으로 만든 RatingView의 layout
+- `my_car_item`: 내차량 목록에서 사용되는 각각의 item의 layout
+- `dealer_review_layout`: 재사용되는 딜러리뷰 layout
 
 ## ID
 - `<WHAT>_<DESCRIPTION>`
