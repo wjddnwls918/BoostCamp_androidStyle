@@ -4,7 +4,7 @@
 - `<WHAT>_<WHERE>`
 
 ### WHAT
-| 설명 | postfix |
+| postfix | 설명 |
 | ------------- | ------------- |
 | `_activity` | Activity에서 쓰이는 layout |
 | `_fragment` | Fragment에서 쓰이는 layout |
