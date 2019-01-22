@@ -1,7 +1,7 @@
 # Resource
 
 ## Layout
-- `<WHAT>_<WHERE>`
+- `<WHERE>_<WHAT>`
 
 ### WHAT
 | postfix | 설명 |
