@@ -51,6 +51,7 @@
 | Abcdef | `abcdef_` |
 | MyCustomView | `my_custom_view` |
 | YourView | `your_view` |
+| BottomNavigationView | `bnv_` |
 
 
 ### 기타
