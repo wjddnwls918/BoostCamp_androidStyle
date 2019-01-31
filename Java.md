@@ -13,6 +13,9 @@ public Car getCar(Context context, int hashId);
 public void loadCar(Context context, int hashId, CarListener listener);
 ```
 
+### 변수이름
+- ViewModel의 경우 `mViewModel`로 명명한다.
+
 ### Key
 
 | Prefix | 설명 |
