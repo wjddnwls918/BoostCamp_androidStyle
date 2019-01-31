@@ -20,6 +20,9 @@
 - `my_car_item`: 내차량 목록에서 사용되는 각각의 item의 layout
 - `dealer_review_layout`: 재사용되는 딜러리뷰 layout
 
+## 데이터바인딩
+- `variable`에 정의하는 변수이름은 모두 소문자로 적는다.
+
 ## ID
 - `<WHAT>_<DESCRIPTION>`
 - View의 대문자를 축약하여 `<WHAT>`의 Prefix로 사용한다.
